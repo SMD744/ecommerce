@@ -72,5 +72,5 @@ lastbtn.addEventListener("click", () => {
   congrat.style.display = "flex";
 });
 congratbtn.addEventListener("click", () => {
-  window.location.href = "../dashboard/index.html";
+  window.location.href = "../index.html";
 });
